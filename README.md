@@ -1,4 +1,5 @@
 # BS859-Final-Project
+## The potential association between Rheumatoid Arthritis and Type 1 Diabetes
 It's a self-chosen independent project.
 
 ## Background: 
